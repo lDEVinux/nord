@@ -1,2 +1,2 @@
 # nord
-A theme based on the Nord color scheme.
+A Replugged theme based on the Nord color scheme.
