@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "author": "RootPSWD",
+    "name": "Nord",
+    "description": "A theme based on the Nord color scheme.",
+    "license": "Unlicensed",
+    "theme": "theme.scss"
+}
